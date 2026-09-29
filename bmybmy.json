@@ -1,7 +1,7 @@
 {
   "name": "LibreTV-SourceList",
   "version": 2,
-  "exportedAt": 1790159895158,
+  "exportedAt": 1790675593690,
   "sources": [
     {
       "name": "电影天堂资源",
@@ -222,6 +222,106 @@
       "name": "鲨鱼",
       "url": "https://shayuapi.com/api.php/provide/vod",
       "isAdult": true
+    },
+    {
+      "name": "茅台资源",
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "火狐",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "新浪资源",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "最大资源",
+      "url": "http://zuidazy.me/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "速博资源",
+      "url": "https://subocaiji.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "魔都资源",
+      "url": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "飘零资源",
+      "url": "https://p2100.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "闪电资源",
+      "url": "https://sdzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "u酷资源",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "丫丫资源",
+      "url": "https://cj.yayazy.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "牛牛资源",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "艾旦电影",
+      "url": "https://lovedan.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
+      "isAdult": false
+    },
+    {
+      "name": "闪电资源",
+      "url": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
+      "isAdult": false
     }
   ],
   "liveSources": []
