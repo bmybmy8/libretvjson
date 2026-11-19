@@ -70,7 +70,7 @@
     },
     {
       "name": "极速资源",
-      "url": "https://jszyapi.com/api.php/provide/vod",
+      "url": "https://jszyapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -90,7 +90,7 @@
     },
     {
       "name": "最大",
-      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "url": "http://zuidazy.me/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -104,7 +104,7 @@
       "isAdult": false
     },
     {
-      "name": "无尽",
+      "name": "无尽资源站",
       "url": "https://api.wujinapi.me/api.php/provide/vod",
       "isAdult": false
     },
@@ -155,7 +155,7 @@
     },
     {
       "name": "玉兔",
-      "url": "https://yutuzy10.com/api.php/provide/vod",
+      "url": "https://apiyutu.com/api.php/provide/vod/",
       "isAdult": true
     },
     {
@@ -164,12 +164,12 @@
       "isAdult": true
     },
     {
-      "name": "xrbsq",
+      "name": "清水源资源站",
       "url": "https://www.xrbsp.com/api/json.php",
       "isAdult": true
     },
     {
-      "name": "香奶儿",
+      "name": "香系源资源站",
       "url": "https://www.gdlsp.com/api/json.php",
       "isAdult": true
     },
@@ -190,7 +190,7 @@
     },
     {
       "name": "91md",
-      "url": "https://91md.me/api.php/provide/vod",
+      "url": "https://91md.me/api.php/provide/vod/",
       "isAdult": true
     },
     {
@@ -249,13 +249,13 @@
       "isAdult": false
     },
     {
-      "name": "速博资源",
-      "url": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播资源",
+      "url": "https://subocj.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
       "name": "魔都资源",
-      "url": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -265,7 +265,7 @@
     },
     {
       "name": "虎牙资源",
-      "url": "https://www.huyaapi.com/api.php/provide/vod",
+      "url": "https://huyazy.net/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "name": "索尼资源",
-      "url": "https://suoniapi.com/api.php/provide/vod",
+      "url": "https://suoniapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
@@ -310,19 +310,79 @@
     },
     {
       "name": "光速资源",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/",
       "isAdult": false
     },
     {
       "name": "金鹰资源",
-      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
+      "url": "https://jyzyapi.com/provide/vod/",
       "isAdult": false
     },
     {
       "name": "闪电资源",
       "url": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8",
       "isAdult": false
+    }    
+    {
+      "name": "新极品资源站",
+      "url": "https://jipinvip1.com/api.php/provide/vod/",
+      "isAdult": false
     }
+    {
+      "name": "鸭鸭资源站",
+      "url": "https://cj.yayazy.net/api.php/provide/vod/",
+      "isAdult": false
+    }
+    {
+      "name": "天涯影视资源站",
+      "url": "https://tyyszyapi.com/api.php/provide/vod/",
+      "isAdult": false
+    }
+    {
+      "name": "豪华资源站",
+      "url": "https://haohuazy.com/api.php/provide/vod/",
+      "isAdult": false
+    }
+    {
+      "name": "牛牛资源",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "isAdult": false
+    }
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "isAdult": false
+    } 
+    {
+      "name": "茅台资源站",
+      "url": "https://mtzy5.com/api.php/provide/vod/",
+      "isAdult": false
+    } 
+    {
+      "name": "大地资源站",
+      "url": "https://dadiapi.com/api.php",
+      "isAdult": true
+    } 
+    {
+      "name": "滴滴资源站",
+      "url": "https://api.ddapi.cc/api.php/provide/vod/",
+      "isAdult": true
+    } 
+    {
+      "name": "大n子资源站",
+      "url": "https://apidanaizi.com/api.php/provide/vod/",
+      "isAdult": true
+    } 
+    {
+      "name": "番茄资源站",
+      "url": "https://fqzy.me/api.php/provide/vod/",
+      "isAdult": true
+    } 
+    {
+      "name": "黑料资源站",
+      "url": "https://heiliaozyapi.com/api.php/provide/vod",
+      "isAdult": true
+    }     
   ],
   "liveSources": []
 }
