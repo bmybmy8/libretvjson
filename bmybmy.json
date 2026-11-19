@@ -146,7 +146,7 @@
     {
       "name": "lsb",
       "url": "https://apilsbzy1.com/api.php/provide/vod",
-      "isAdult": false
+      "isAdult": true
     },
     {
       "name": "黄仓",
@@ -326,7 +326,7 @@
     {
       "name": "新极品资源站",
       "url": "https://jipinvip1.com/api.php/provide/vod/",
-      "isAdult": false
+      "isAdult": true
     },
     {
       "name": "鸭鸭资源站",
